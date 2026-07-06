@@ -5,7 +5,6 @@
 **Software Engineer · MuleSoft Developer · Ph.D. Candidate in Information Technology**
 
 [![Location](https://img.shields.io/badge/📍-Leander%2C%20Texas-blue?style=flat-square)](https://maps.google.com/?q=Leander,Texas)
-[![Email](https://img.shields.io/badge/✉️-saitejakolla95@gmail.com-red?style=flat-square)](mailto:saitejakolla95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-kolla-0239943a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-teja13122-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/teja13122)
 
@@ -109,7 +108,6 @@ Software engineer focused on **enterprise application integration**, **API devel
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--teja--kolla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-kolla-0239943a4/)
-[![Email](https://img.shields.io/badge/Email-saitejakolla95@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitejakolla95@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-teja13122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teja13122)
 
 </div>
